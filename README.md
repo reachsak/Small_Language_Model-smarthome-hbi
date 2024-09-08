@@ -3,6 +3,10 @@
 **Date:** January 2024 – Present  
 **Institution:** Virginia Polytechnic Institute and State University
 
+## Demo
+
+[![Watch the demo video](https://img.youtube.com/vi/9xEsGGWHDjI/0.jpg)](https://www.youtube.com/watch?v=9xEsGGWHDjI)
+
 ## Project Overview
 
 This project focuses on deploying a small language model (Phi-3 mini) onto a Raspberry Pi 5 to facilitate human-building interaction in smart home environments. The primary goal is to enhance control over smart building systems using natural language processing capabilities of the small language model.
@@ -44,10 +48,6 @@ This project focuses on deploying a small language model (Phi-3 mini) onto a Ras
      ```bash
      python main.py
      ```
-
-## Demo
-
-Check out the demonstration of the small language model-based smart home system in action on [YouTube](https://www.youtube.com/watch?v=9xEsGGWHDjI).
 
 ## Contributing
 
