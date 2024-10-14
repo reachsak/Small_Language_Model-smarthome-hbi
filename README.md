@@ -9,6 +9,11 @@
 
 This project focuses on deploying a small language model (Phi-3 mini) onto a Raspberry Pi 5 to facilitate human-building interaction in smart home environments. The primary goal is to enhance control over smart building systems using natural language processing capabilities of the small language model.
 
+
+## Manuscript
+Under preparation...
+
+
 ### Key Features
 
 - **Deployment of Phi-3 Mini:** Utilizes the Phi-3 mini language model on a Raspberry Pi 5 for efficient and responsive human-building interaction.
