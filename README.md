@@ -1,5 +1,9 @@
 # Small Language Model-Based Smart Home Devices for Human-Building Interaction
 
+## Summary
+<img src="/equipment.png" style="float: left; margin-right: 20px; max-width: 200px;">
+
+
 ## Video Demo
 
 [![Watch the demo video](https://img.youtube.com/vi/9xEsGGWHDjI/0.jpg)](https://www.youtube.com/watch?v=9xEsGGWHDjI)  
