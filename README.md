@@ -4,6 +4,14 @@
 
 This project explores the integration of small language models (SLMs) into smart home environments, focusing on deploying the Phi-3 Mini model and Llama 3.2 onto a Raspberry Pi 5 to enable natural language interaction with building systems. The primary objective is to enhance human-building interaction through accessible, cost-effective, and localized AI-powered solutions. This project seeks to revolutionize human-building interaction by embedding generative AI within the built environment. By enabling localized AI-driven decision-making, the research contributes to the development of more responsive, secure, and sustainable smart home ecosystems, forming the backbone for future smart cities.
 
+## Summary
+<img src="/equipment.png" style="float: left; margin-right: 20px; max-width: 200px;">
+
+
+## Video Demo
+[![Watch the demo video](https://img.youtube.com/vi/9xEsGGWHDjI/0.jpg)](https://www.youtube.com/watch?v=9xEsGGWHDjI)  
+*Click on the image to view the video.*
+
 ## Goals and Objectives
 - **Human Building Interaction:** Facilitate intuitive voice-controlled management of smart building systems, such as lighting, temperature regulation, and other IoT-connected devices.
 - **Edge AI Deployment:** Leverage low-cost single-board computers like the Raspberry Pi 5 to run open-source SLMs locally, eliminating dependency on commercial cloud-based AI services.
@@ -14,16 +22,6 @@ This project explores the integration of small language models (SLMs) into smart
 - **Smart Building Evolution:** Accelerates the transition toward AI-empowered building systems, fostering smarter, more sustainable infrastructure.
 - **Smart City Integration:** Demonstrates a scalable model for applying generative AI to interconnected urban environments, promoting responsive and efficient smart city initiatives.
 - **Democratizing AI:** Makes advanced AI solutions accessible to a broader audience by utilizing open-source models and affordable hardware.
-
-
-
-## Summary
-<img src="/equipment.png" style="float: left; margin-right: 20px; max-width: 200px;">
-
-
-## Video Demo
-[![Watch the demo video](https://img.youtube.com/vi/9xEsGGWHDjI/0.jpg)](https://www.youtube.com/watch?v=9xEsGGWHDjI)  
-*Click on the image to view the video.*
 
 ## Manuscript
 Under preparation...
