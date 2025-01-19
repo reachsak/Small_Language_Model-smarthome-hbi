@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project explores the integration of small language models (SLMs) into smart home environments, focusing on deploying the Phi-3 Mini model and Llama 3.2 onto a Raspberry Pi 5 to enable natural language interaction with building systems. The primary objective is to enhance human-building interaction through accessible, cost-effective, and localized AI-powered solutions. This project seeks to revolutionize human-building interaction by embedding generative AI within the built environment. By enabling localized AI-driven decision-making, the research contributes to the development of more responsive, secure, and sustainable smart home ecosystems, forming the backbone for future smart cities.
+This project explores the integration of small language models (SLMs) with smart home environments by deploying the Phi-3 Mini model and Llama 3.2 onto a Raspberry Pi 5 to enable natural language interaction with building systems. The primary objective is to enhance human-building interaction through accessible, cost-effective, and localized AI-powered solutions. This project seeks to revolutionize human-building interaction by embedding generative AI within the built environment. By enabling localized AI-driven decision-making, the research contributes to the development of more responsive, secure, and sustainable smart home ecosystems, forming the backbone for future smart cities.
 
 ## Summary
 <img src="/equipment.png" style="float: left; margin-right: 20px; max-width: 200px;">
